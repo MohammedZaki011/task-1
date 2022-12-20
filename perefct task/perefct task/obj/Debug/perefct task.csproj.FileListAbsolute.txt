@@ -1,0 +1,8 @@
+C:\Users\zakariamohammed\Pictures\New folder\perefct task\perefct task\bin\Debug\perefct task.exe.config
+C:\Users\zakariamohammed\Pictures\New folder\perefct task\perefct task\bin\Debug\perefct task.exe
+C:\Users\zakariamohammed\Pictures\New folder\perefct task\perefct task\bin\Debug\perefct task.pdb
+C:\Users\zakariamohammed\Pictures\New folder\perefct task\perefct task\obj\Debug\perefct task.csproj.AssemblyReference.cache
+C:\Users\zakariamohammed\Pictures\New folder\perefct task\perefct task\obj\Debug\perefct task.csproj.SuggestedBindingRedirects.cache
+C:\Users\zakariamohammed\Pictures\New folder\perefct task\perefct task\obj\Debug\perefct task.csproj.CoreCompileInputs.cache
+C:\Users\zakariamohammed\Pictures\New folder\perefct task\perefct task\obj\Debug\perefct task.exe
+C:\Users\zakariamohammed\Pictures\New folder\perefct task\perefct task\obj\Debug\perefct task.pdb
